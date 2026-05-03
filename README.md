@@ -12,26 +12,26 @@ Projects from the 42 São Paulo new curriculum, built with C and Python, organiz
 - [libft](./base/libft/) — `C` core library
 
 ## Milestone 1
-- [push_swap](./milestones/milestone-1/push_swap/) — `C` sorting algorithm
-- [ft_printf](./milestones/milestone-1/ft_printf/) — `C` printf reimplementation
-- [get_next_line](./milestones/milestone-1/get_next_line/) — `C` line reader
+- [push_swap](./milestones/milestone-1/push_swap/)
+- [ft_printf](./milestones/milestone-1/ft_printf/)
+- [get_next_line](./milestones/milestone-1/get_next_line/)
 
 ## Milestone 2
-- [Piscine Python](./milestones/milestone-2/piscine-python/) — `Python` fundamentals
-- [a_maze_ing](./milestones/milestone-2/a-maze-ing/) — `Python` maze solver
-- [B2BR](./milestones/milestone-2/b2br/) — `C` networking
+- [Piscine Python](./milestones/milestone-2/piscine-python/)
+- [a_maze_ing](./milestones/milestone-2/a-maze-ing/)
+- [B2BR](./milestones/milestone-2/b2br/)
 
 ## Milestone 3
-- [codexion](./milestones/milestone-3/codexion/) — `Python`
-- [fly_in](./milestones/milestone-3/fly-in/) — `Python`
-- [call_me_maybe](./milestones/milestone-3/call-me-maybe/) — `Python`
+- [codexion](./milestones/milestone-3/codexion/)
+- [fly_in](./milestones/milestone-3/fly-in/)
+- [call_me_maybe](./milestones/milestone-3/call-me-maybe/)
 
 ## Milestone 4
-- [net_practice](./milestones/milestone-4/net-practice/) — networking
-- [pacman](./milestones/milestone-4/pacman/) — `Python` game
-- [RAG against the machine](./milestones/milestone-4/rag-against-the-machine/) — `Python` RAG
+- [net_practice](./milestones/milestone-4/net-practice/)
+- [pacman](./milestones/milestone-4/pacman/)
+- [RAG against the machine](./milestones/milestone-4/rag-against-the-machine/)
 
 ## Milestone 5
-- [inception](./milestones/milestone-5/inception/) — Docker
-- [the_answer_protocol](./milestones/milestone-5/the-answer-protocol/) — `Python`
-- [agent_smith](./milestones/milestone-5/agent-smith/) — `Python` AI agent
+- [inception](./milestones/milestone-5/inception/)
+- [the_answer_protocol](./milestones/milestone-5/the-answer-protocol/)
+- [agent_smith](./milestones/milestone-5/agent-smith/)
