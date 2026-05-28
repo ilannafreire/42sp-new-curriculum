@@ -6,10 +6,9 @@
 /*   By: ifreire <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/27 19:14:33 by ifreire           #+#    #+#             */
-/*   Updated: 2026/05/27 19:14:37 by ifreire          ###   ########.fr       */
+/*   Updated: 2026/05/27 21:06:55 by ifreire          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 #include "libft.h"
 
 char	*ft_strrchr(const char *s, int c)

@@ -6,14 +6,10 @@
 /*   By: ifreire <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/27 19:37:35 by ifreire           #+#    #+#             */
-/*   Updated: 2026/05/27 19:37:38 by ifreire          ###   ########.fr       */
+/*   Updated: 2026/05/27 21:09:25 by ifreire          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
-/* Appends the source string to the destination string, with a size limit,
-** and ensures null termination. Returns the total length of the concatenated
-** string. */
 #include "libft.h"
 
 size_t	ft_strlcat(char *dst, const char *src, size_t size)
