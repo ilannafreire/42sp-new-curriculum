@@ -6,7 +6,7 @@
 /*   By: ifreire <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/27 18:40:49 by ifreire           #+#    #+#             */
-/*   Updated: 2026/05/27 21:04:57 by ifreire          ###   ########.fr       */
+/*   Updated: 2026/06/03 01:55:13 by ifreire          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,21 @@
 
 int	ft_tolower(int c)
 {
-	if ((c >= 'A') && (c <= 'Z'))
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (c + 32);
 	}
 	return (c);
 }
+
+/*
+int	main(void)
+{
+	char	c;
+
+	c = ft_tolower('A');
+	write(1, &c, 1);
+	write(1, "\n", 1);
+	return (0);
+}
+*/
